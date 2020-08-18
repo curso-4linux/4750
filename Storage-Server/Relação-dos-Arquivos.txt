@@ -1,3 +1,5 @@
+Distribuição: CentOS 7
+
 Arquivos:
 
 /etc/hosts

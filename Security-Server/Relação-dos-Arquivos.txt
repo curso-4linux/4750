@@ -1,3 +1,5 @@
+Distribuição: Debian 9
+
 Arquivos:
 
 /etc/hosts
