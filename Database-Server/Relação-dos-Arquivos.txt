@@ -1,0 +1,7 @@
+Arquivos:
+
+/etc/hosts
+/etc/hostname
+/etc/sudoers.d/98_4linux
+/etc/sysconfig/network-scripts/ifcfg-enp0s3
+/etc/sysconfig/network-scripts/ifcfg-enp0s8
