@@ -1,4 +1,5 @@
 Distribuição: Debian 9
+Quantidade de memória: 1024 MB
 
 Arquivos:
 

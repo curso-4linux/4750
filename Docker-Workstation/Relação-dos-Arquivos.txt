@@ -1,4 +1,5 @@
 Distribuição: Ubuntu Server 16 (Xenial)
+Quantidade de memória: 1024 MB
 
 Arquivos:
 

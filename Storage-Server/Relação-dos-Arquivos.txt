@@ -1,4 +1,5 @@
 Distribuição: CentOS 7
+Quantidade de memória: 512 MB
 
 Arquivos:
 
