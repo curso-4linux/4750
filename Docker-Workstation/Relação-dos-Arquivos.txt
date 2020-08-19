@@ -1,0 +1,27 @@
+Distribuição: Ubuntu Server 16 (Xenial)
+
+Arquivos:
+
+/etc/hosts
+/etc/hostname
+/etc/network/interfaces
+/etc/sudoers.d/98_4linux
+/opt/vagrant_2.2.9_x86_64.deb
+/op/Dockerfile
+
+Pastas:
+
+/opt/4450
+
+* Instalar o Vagrant usando o arquivo /opt/vagrant_2.2.9_x86_64.deb
+* Instalar o Docker seguindo a Documentação:
+
+https://docs.docker.com/engine/install/ubuntu/
+
+* Gerar a image docker ubuntu-ssh usando o arquivo /opt
+
+sudo docker image build -t ubuntu-ssh /opt
+
+* Criar a rede dexterlan no Docker
+
+sudo docker network create --driver bridge --subnet 172.18.0.0/16 dexterlan
