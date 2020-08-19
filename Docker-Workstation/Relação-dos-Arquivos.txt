@@ -7,7 +7,7 @@ Arquivos:
 /etc/network/interfaces
 /etc/sudoers.d/98_4linux
 /opt/vagrant_2.2.9_x86_64.deb
-/op/Dockerfile
+/opt/Dockerfile
 
 Pastas:
 
