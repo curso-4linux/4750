@@ -24,6 +24,12 @@ Arquivos:
 /opt/if-script.sh
 /opt/web_backup_system.sh
 /opt/while-test.sh
+/etc/sysconfig/selinux
+
+Deixar o Firewalld desativado
+
+sudo systemctl disable firewalld
+
 
 Pastas:
 
