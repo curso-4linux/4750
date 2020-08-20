@@ -1,5 +1,11 @@
 Distribuição: CentOS 7
+
 Quantidade de memória: 512 MB
+
+Configuração de rede no VirtualBox:
+
+Adaptador 1: NAT
+Adaptador 2: host-only (172.16.100.1)
 
 Arquivos:
 
@@ -20,6 +26,7 @@ Arquivos:
 /opt/while-test.sh
 
 Pastas:
+
 /opt/pacotes
 
 

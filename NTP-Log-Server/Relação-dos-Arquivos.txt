@@ -1,5 +1,11 @@
 Distribuição: Debian 9
+
 Quantidade de memória: 1024 MB
+
+Configuração de rede no VirtualBox:
+
+Adaptador 1: NAT
+Adaptador 2: host-only (172.16.100.1)
 
 Arquivos:
 
