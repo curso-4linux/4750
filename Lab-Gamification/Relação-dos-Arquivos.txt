@@ -53,3 +53,7 @@ sudo docker image build -t ubuntu-ssh /opt
 * Criar a rede dexterlan no Docker
 
 sudo docker network create --driver bridge --subnet 172.18.0.0/16 dexterlan
+
+Discos:
+
+Adicionar + 2 discos de 20GB
